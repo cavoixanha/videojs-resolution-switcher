@@ -1,6 +1,6 @@
 # Video.js Resolution Switcher [![Build Status](https://travis-ci.org/kmoskwiak/videojs-resolution-switcher.svg?branch=master)](https://travis-ci.org/kmoskwiak/videojs-resolution-switcher) 
 
-Resolution switcher for [video.js v5](https://github.com/videojs/video.js)
+Resolution switcher for [video.js v7](https://github.com/videojs/video.js)
 
 ## Example
 
@@ -12,12 +12,17 @@ Install plugin with
 
 **npm**
 ```
-npm i videojs-resolution-switcher
+npm i videojs-resolution-switcher-webpack
 ```
 
 or **bower**
 ```
-bower install videojs-resolution-switcher
+bower install videojs-resolution-switcher-webpack
+```
+
+or **bower**
+```
+yarn add videojs-resolution-switcher-webpack
 ```
 
 

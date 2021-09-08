@@ -1,21 +1,22 @@
 {
-  "name": "videojs-resolution-switcher",
+  "name": "videojs-resolution-switcher-webpack",
   "version": "0.4.2",
   "main": "./lib/videojs-resolution-switcher.js",
   "author": {
-    "name": "Kasper Moskwiak",
-    "email": "kasper.moskwiak@gmail.com",
-    "url": "http://kspr.pl"
+    "name": "Nam Nguyen Van",
+    "email": "vannam1993cse@gmail.com",
+    "url": "bag-umbala.com"
   },
   "contributors": [
     {
-      "name": "Pierre Kraft"
+      "name": "Pierre Kraft",
+      "name": "Nam Nguyen Van"
     }
   ],
-  "description": "Resolution switcher for video.js 5",
+  "description": "Resolution switcher for video.js 7",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kmoskwiak/videojs-resolution-switcher.git"
+    "url": "git@github.com:cavoixanha/videojs-resolution-switcher.git"
   },
   "bugs": {
     "url": "https://github.com/kmoskwiak/videojs-resolution-switcher/issues"
@@ -42,11 +43,11 @@
     "grunt-contrib-qunit": "^1.1",
     "grunt-contrib-uglify": "^1.0",
     "grunt-contrib-watch": "^1.0",
-    "video.js": "^5.8",
+    "video.js": "^7.14.3",
     "qunitjs": "^1.22",
     "videojs-youtube": "^2.0.8"
   },
   "peerDependencies": {
-    "video.js": "^5.8"
+    "video.js": "^7.14.3"
   }
 }
