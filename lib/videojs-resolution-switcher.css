@@ -1,4 +1,7 @@
-.vjs-resolution-button .vjs-menu-icon:before {
+.video-js {
+  font-size: 13px;
+}
+.vjs-resolution-button .vjs-icon-placeholder:before {
   content: '\f110';
   font-family: VideoJS;
   font-weight: normal;

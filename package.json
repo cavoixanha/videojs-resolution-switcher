@@ -1,6 +1,6 @@
 {
   "name": "videojs-resolution-switcher-webpack",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "main": "./lib/videojs-resolution-switcher.js",
   "author": {
     "name": "Nam Nguyen Van",
